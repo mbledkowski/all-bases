@@ -47,4 +47,4 @@ base93str = '0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ !?"\
 
 
 Sources:
-https://en.wikipedia.org/wiki/Base64, https://en.wikipedia.org/wiki/List_of_numeral_systems
+https://en.wikipedia.org/wiki/Base64, https://en.wikipedia.org/wiki/List_of_numeral_systems, https://www.systutorials.com/4670/ascii-table-and-ascii-code/
