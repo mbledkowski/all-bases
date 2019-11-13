@@ -23,10 +23,10 @@
 
 1. # Base64 - Tetrasexagesimal
     1. [A-Z] + [a-z] + [0-9] + "`+`" + "`/`"
-    1. Privacy-Enhanced Mail (PEM; RFC 1421; deprecated)
-     1. Transfer encoding for MIME (RFC 2045)
-     1. RFC 4648 (previously, RFC 3548; standard)
-     1. Radix-64 for OpenPGP (RFC 4880)
+       1. Privacy-Enhanced Mail (PEM; RFC 1421; deprecated)
+       1. Transfer encoding for MIME (RFC 2045)
+       1. RFC 4648 (previously, RFC 3548; standard)
+       1. Radix-64 for OpenPGP (RFC 4880)
         * Plain text
         ```
         ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=
