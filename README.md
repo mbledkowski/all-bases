@@ -6,14 +6,19 @@
  * https://en.wikipedia.org/wiki/List_of_numeral_systems
  * and by my own needs
 1. # Base64 - Tetrasexagesimal
-  1. Privacy-Enhanced Mail (PEM; RFC 1421; deprecated)
-  1. Transfer encoding for MIME (RFC 2045)
-  1. RFC 4648 (previously, RFC 3548; standard)
-  1. Radix-64 for OpenPGP (RFC 4880)
-  * Plain text
-```
-ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=
-```
+    1. Privacy-Enhanced Mail (PEM; RFC 1421; deprecated)
+    1. Transfer encoding for MIME (RFC 2045)
+    1. RFC 4648 (previously, RFC 3548; standard)
+    1. Radix-64 for OpenPGP (RFC 4880)
+        * Plain text
+        ```
+        ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=
+        ```
+    1. YouTube video ID
+        * Plain text
+        ```
+        ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789-_
+        ```
 
 # Base92 - Duononagesimal
 #### Using all of ASCII printable characters except for "`` ` ``" and "`"`"
