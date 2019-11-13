@@ -1,5 +1,5 @@
 # All numerical bases
-### Repository with as many as possible number systems. Feel free to contribute.
+### Repository with as many number systems as possible. Feel free to contribute.
 #### By saying "ASCII printable characters", I meant printable characters without Space [SP, 0x20] and Delete [DEL, 0x7F]
 #### Inspired by
  * https://en.wikipedia.org/wiki/Base64
