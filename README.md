@@ -20,35 +20,35 @@
         ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789-_
         ```
 
-# Base92 - Duononagesimal
-#### Using all of ASCII printable characters except for "`` ` ``" and "`"`"
-> Plain text
-```
-0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!#$%&'()*+,-./:;<=>?@[\]^_{|}~ 
-```
-# Base93 - Trinonagesimal
-#### Using all of ASCII printable characters with Space, except for "`,`" and "`-`"
-##### http://kiwigis.blogspot.com/2013/09/base-93-integer-shortening-in-c.html
-> Plain text
-```
-0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ !?"'`^#$%@&*+=/.:;|\_<>[]{}()~
-```
-> Python
-```python
-base93str = '0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ !?"\'`^#$%@&*+=/.:;|\_<>[]{}()~'
-```
-# Base94 - Tetranonagesimal
-#### Using all of ASCII printable characters
-> Plain text
-```
-0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!"#$%&'()*+,-./:;<=>?@[\]^_`{|}~
-```
-# Base95 - Pentanonagesimal
-#### Using all of ASCII printable characters and Space
-> Plain text
-```
-0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!"#$%&'()*+,-./:;<=>?@[\]^_`{|}~ 
-```
+1. # Base92 - Duononagesimal
+    1. Using all of ASCII printable characters except for "`` ` ``" and "`"`"
+        * Plain text
+        ```
+        0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!#$%&'()*+,-./:;<=>?@[\]^_{|}~ 
+        ```
+1. # Base93 - Trinonagesimal
+    1. Using all of ASCII printable characters with Space, except for "`,`" and "`-`"
+        ##### http://kiwigis.blogspot.com/2013/09/base-93-integer-shortening-in-c.html
+        * Plain text
+        ```
+        0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ !?"'`^#$%@&*+=/.:;|\_<>[]{}()~
+        ```
+        * Python
+        ```python
+        base93str = '0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ !?"\'`^#$%@&*+=/.:;|\_<>[]{}()~'
+        ```
+1. # Base94 - Tetranonagesimal
+    1. Using all of ASCII printable characters
+        * Plain text
+        ```
+        0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!"#$%&'()*+,-./:;<=>?@[\]^_`{|}~
+        ```
+1. # Base95 - Pentanonagesimal
+    1. Using all of ASCII printable characters and Space
+        * Plain text
+        ```
+        0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!"#$%&'()*+,-./:;<=>?@[\]^_`{|}~ 
+        ```
 
 
 Sources:
